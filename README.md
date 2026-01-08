@@ -14,4 +14,8 @@ task1 代码 [task1](src/bin/task1.rs)
 
 task2 代码 [task2](src/bin/task2.rs)
 
+### task3
+
+task3 代码 [task3](src/bin/task3.rs)
+
 
