@@ -23,10 +23,6 @@ async fn main() -> Result<()> {
         println!("警告：链 ID 不匹配预期，可能连接到其他网络");
     }
 
-    // 示例：查询一个知名地址的余额（例如 Arbitrum 桥合约或随意地址）
-    let test_address = address!("0000000000000000000000000000000000000000"); // zero address
-    let balance = provider.get_balance(test_address).await?;
-    println!("地址 {} 的余额: {} wei", test_address, balance);
 
     Ok(())
 }

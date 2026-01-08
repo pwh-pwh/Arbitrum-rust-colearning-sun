@@ -8,4 +8,10 @@
 
 task1 代码 [task1](src/bin/task1.rs)
 
+### task2
+
+运行截图: ![查询余额](image/查询余额.png)
+
+task2 代码 [task2](src/bin/task2.rs)
+
 
