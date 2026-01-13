@@ -26,4 +26,11 @@ task4 代码 [task4](src/bin/task4.rs)
 
 转账tx:[tx](https://sepolia.arbiscan.io/tx/0x83ce6e0a2c79aa28b650dd7c901e0c15e75bf2933ad4b524a19a4fd98846c6e3)
 
+### task5
+
+task5 代码 [task5](src/bin/task5.rs)
+
+运行截图: ![合约交互](image/合约交互.png)
+
+
 
